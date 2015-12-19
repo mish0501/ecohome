@@ -1,0 +1,5 @@
+[26-Jan-2015 13:41:55] PHP Fatal error:  Call to undefined function  addinfo() in /home/kvadrat/public_html/ecohome/inc/config.php on line 22
+[26-Jan-2015 13:43:01] PHP Fatal error:  Call to undefined function  addinfo() in /home/kvadrat/public_html/ecohome/inc/config.php on line 22
+[26-Jan-2015 13:43:10] PHP Fatal error:  Call to undefined function  addinfo() in /home/kvadrat/public_html/ecohome/inc/config.php on line 22
+[26-Jan-2015 13:44:00] PHP Fatal error:  Call to undefined function  addinfo() in /home/kvadrat/public_html/ecohome/inc/config.php on line 22
+[26-Jan-2015 13:44:37] PHP Fatal error:  Call to undefined function  addinfo() in /home/kvadrat/public_html/ecohome/inc/config.php on line 22
